@@ -1,1 +1,1 @@
-console.log("뇌물");
+console.log("안녕");
